@@ -46,6 +46,6 @@ public class ProgramKasir {
                 kembali = masuk.nextInt();
                 
         }while (kembali == 1);
-        System.out.print("\n Terima Kasih!");
+        System.out.print("\n Terima Kasih!\n"); 
         }
  }
